@@ -13,3 +13,8 @@ Download the files and start pulling the Lever.
                          
 
 P.s. Please refer to lab.pdf for detailed explaination of the code.  
+
+![img1](https://cloud.githubusercontent.com/assets/6753916/19168511/40e1c14c-8bc5-11e6-80ab-a5dcd3d3839a.JPG)
+![img2](https://cloud.githubusercontent.com/assets/6753916/19168517/457c3368-8bc5-11e6-9e1c-f5b71cc39970.JPG)
+![img3](https://cloud.githubusercontent.com/assets/6753916/19168518/4727cee8-8bc5-11e6-8d92-bb70dd8ac623.JPG)
+
