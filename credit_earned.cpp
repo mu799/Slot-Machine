@@ -32,7 +32,7 @@ else if((e[0] == '2' and e[1] == '2') or (e[0] == '2' and e[2] == '2') or (e[2] 
 else if((e[0] == '3' and e[1] == '3') or (e[0] == '3' and e[2] == '3') or (e[2] == '3' and e[1] == '3')) {c += 65;}
 else if((e[0] == '4' and e[1] == '4') or (e[0] == '4' and e[2] == '4') or (e[2] == '4' and e[1] == '4')) {c += 55;}
 else if((e[0] == '0' and e[1] == '0') or (e[0] == '0' and e[2] == '0') or (e[2] == '0' and e[1] == '0')) {c -= bet;}
-else if(e[0] == e[2] or e[0] == e[1] or e[1] == e[2]) {c += 50;}
+else if(e[0] == e[2] or e[0] == e[1] or e[1] == e[2]) {c += 2000;}
 else if(e[0] == '1' or e[1] == '1' or e[2] == '1') {c += 25;}
 else if(e[0] == '2' or e[1] == '2' or e[2] == '2') {c += 20;}
 else if(e[0] == '3' or e[1] == '3' or e[2] == '3') {c += 15;}
